@@ -30,3 +30,23 @@ This project represents my first step toward mastering these fundamental tools f
 1. Clone this repository:
    ```bash
    git clone https://github.com/AntMerinoAguilar/-BECODE-Antoine_Merino-HTML-CSS.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd -BECODE-Antoine_Merino-HTML-CSS
+   ```
+
+3. Open the HTML and CSS files in your preferred code editor (e.g., Visual Studio Code).
+
+4. To view the exercises, open the HTML files in your web browser. You can do this by right-clicking the HTML file and selecting "Open with" and then choosing your browser.
+
+5. To edit the styles, modify the CSS files and refresh the browser to see the changes in real-time.
+
+## Key Learnings 🚀
+
+In this project, I learned to:
+
+- Structure web pages using **HTML**.
+- Apply visual styles with **CSS**.
+- Understand the basic concepts of web development and page layout.

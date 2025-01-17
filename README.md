@@ -18,8 +18,8 @@ HTML and CSS are the building blocks of web development. This project aims to:
 
 The repository is organized as follows:
 
-- **`WEEK-05/00.HTML`**: Exercises on the HTML structure of web pages.
-- **`WEEK-05/01.CSS`**: Exercises on applying CSS styles to HTML pages.
+- **`WEEK-05/00.HTML/`**: Exercises on the HTML structure of web pages.
+- **`WEEK-05/01.CSS/`**: Exercises on applying CSS styles to HTML pages.
 
 ## First Steps as a Developer 🚀
 

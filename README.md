@@ -2,9 +2,9 @@
 
 This repository contains exercises completed as part of my training at **BeCode**, focused on learning **HTML** and **CSS**. 🎨
 
-## Overview
+## Overview 📋
 
-📋 In this project, you will find:
+In this project, you will find:
 - Exercises on creating static web pages with **HTML**.
 - The application of visual styles using **CSS** to enhance the appearance of the pages.
 
